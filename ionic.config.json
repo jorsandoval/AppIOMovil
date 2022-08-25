@@ -1,0 +1,7 @@
+{
+  "name": "AppIOMovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
